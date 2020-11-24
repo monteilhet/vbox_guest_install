@@ -8,3 +8,6 @@ Then run as root :
 
     sudo vbox_guest_install.sh
 
+FOR VBox desktop OS :
+
+    sudo vbox_guest_install.sh X 
